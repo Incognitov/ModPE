@@ -8,3 +8,11 @@ How to use:
 2. Place a chest next to the fireworks launcher.
 3. Put your chosen firework(s) in the chest (ID 445-455).
 4. Click on the fireworks launcher to release it.
+
+Quick install:
+
+1. Open BlockLauncher.
+2. Open up the settings and click "Manage ModPE Scripts".
+3. Click "import".
+4. Click "Web address".
+5. Paste this address: https://raw.githubusercontent.com/Incognitov/ModPE/master/FireworksPE/FireworksPE.js
