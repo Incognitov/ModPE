@@ -6,3 +6,11 @@ This mod allows a more efficient way of managing one's inventory. It has feature
 * /sort inv – Organises your inventory.
 * /sort chest – Type this command and then hit a small chest to organise it.
 * /sort large chest – Type this command and then hit a large chest to organise it.
+
+Quick install:
+
+1. Open BlockLauncher.
+2. Open up the settings and click "Manage ModPE Scripts".
+3. Click "import".
+4. Click "Web address".
+5. Paste this address: https://raw.githubusercontent.com/Incognitov/ModPE/master/InvManager/InvManager.js
