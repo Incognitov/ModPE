@@ -1,5 +1,5 @@
 /* Made by Incognito.
-===[ Fireworks ]===
+===[ FireworksPE ]===
 Do not distribute without the written permision of Incognito. No modification or copying is allowed, and any unallowed copies shall be ceased. */
 var sdcard = android.os.Environment.getExternalStorageDirectory();
 
