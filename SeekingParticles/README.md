@@ -9,3 +9,11 @@ SeekingParticles is a simple concept, which uses particles which were introduced
 * /sp off - This disables SeekingParticles.
 
 Particles: redstone, cloud, crit, lava, splash, portal, spell, snowball, smoke.
+
+Quick install:
+
+1. Open BlockLauncher.
+2. Open up the settings and click "Manage ModPE Scripts".
+3. Click "import".
+4. Click "Web address".
+5. Paste this address: https://raw.githubusercontent.com/Incognitov/ModPE/master/SeekingParticles/SeekingParticles.js
