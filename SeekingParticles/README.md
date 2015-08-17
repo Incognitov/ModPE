@@ -8,7 +8,7 @@ SeekingParticles is a simple concept, which uses particles which were introduced
 * /sp (particle name) - The chosen particle shall follow you.
 * /sp off - This disables SeekingParticles.
 
-Particles: redstone, cloud, crit, lava, splash, portal, spell, snowball, smoke.
+Particles: redstone, cloud, crit and redstone.
 
 Quick install:
 
