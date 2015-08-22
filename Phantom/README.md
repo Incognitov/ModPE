@@ -17,5 +17,3 @@ Quick install:
 3. Click "import".
 4. Click "Web address".
 5. Paste this address: https://raw.githubusercontent.com/Incognitov/ModPE/master/Phantom/Phantom.js
-
-**NOTE: This mod will not work properly without the font files which are not being distributed on Github, in that case please contact me if you are interested in using the mod fully.**
