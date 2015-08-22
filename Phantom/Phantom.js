@@ -1817,7 +1817,7 @@ function spawn_menu() {
 
 
                 var mob = new android.widget.TextView(ctx);
-                mob.setText('    0.11.0 mobs have been added!(version 0.2) :D');
+                mob.setText('    0.11.0 mobs have been added(version 0.1)! :D');
                 mob.setTypeface(mcfont);
                 mob.setTextSize(19);
                 menuLayout.addView(mob);
